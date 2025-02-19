@@ -1,3 +1,4 @@
+
 -- Sample 1: Insert multiple categories into the category table
 INSERT INTO category (name)
 VALUES 
